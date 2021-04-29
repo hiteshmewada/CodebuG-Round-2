@@ -40,7 +40,7 @@ Test Case No | input | Outut
 #### :large_orange_diamond: Pattern :large_orange_diamond:
 Test Case No | input | Outut
 --- | --- | ---
-0 | 2 | ![image](https://drive.google.com/uc?export=view&id=1VzhNiw3VUTS8_I6fd-5kAgcucZrx-h_N)
+0 | 2 | ![image](https://drive.google.com/uc?export=view&id=152EpORJMtZz8V6sjDVtScPpLGxLKS-a5)
 1 | 3 | vdaakr iylna <br> isiueo nttt f <br> tcnlg ehooy
 2 | 4 | Ascain soito <br> o f <br> cmuig optn <br> mciey ahnr
 3 | 5 | jn oy oyjn <br> yspp e aa <br> etn ua? aigsgr <br> n aa opp
