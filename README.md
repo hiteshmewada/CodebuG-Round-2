@@ -7,6 +7,7 @@
 :three: Upload your modified code file to google form. <br>
 :four: Repeat step 0 to 3 for all folders. <br>
 :five: Submit yours google form before deadline. <br>
+All the best! :thumbsup:
 
 ### :white_circle: Test Cases :white_circle:
 
@@ -45,3 +46,22 @@ Test Case No | input | Outut
 2 | 4 | ![image](https://drive.google.com/uc?export=view&id=1rCv7dkNC82-tz9Vf4WX4lmwygy0N3Bsd)
 3 | 5 | ![image](https://drive.google.com/uc?export=view&id=182q1--LoNx54DV_gZGXQcw5Y6sxOyue7)
 4 | 6 | ![image](https://drive.google.com/uc?export=view&id=1exbjgsExfhf0TDdqnXrjkNNrx4b64uE0)
+
+#### :large_orange_diamond: PrePost :large_orange_diamond:
+Test Case No | input | Outut
+--- | --- | ---
+0 | 6 <br> 6 4 3 8 5 2 | 3 4 2 5 8 6
+1 | 5 <br> 23 45 67 89 23 | 23 89 67 45 23
+2 | 3 <br> 32 56 12 | 12 56 32
+3 | 7 <br> 23 1 23 45 66 2 1 | 1 1 2 66 45 23 23
+4 | 10 <br> 35 43 12 40 45 32 19 39 56 75 | 75 56 39 19 32 45 40 12 43 35
+5 | 12 <br> 34 5 6 7 87 898 55 34 66 76 12 43 | 7 6 5 43 12 76 66 34 55 898 87 34
+
+#### :large_orange_diamond: Sorted! :large_orange_diamond:
+Test Case No | input | Outut
+--- | --- | ---
+0 | 3 <br> 23 78 54 | Array is sorted in 1 swaps. <br> First Element of sorted array: 23 <br> Last Element of sorted array: 78
+1 | 5 <br> 2 2 2 2 2 | Array is sorted in 0 swaps. <br> First Element of sorted array: 2 <br> Last Element of sorted array: 2
+2 | 8 <br> 87 34 567 34 23 5 43 5 | Array is sorted in 20 swaps. <br> First Element of sorted array: 5 <br> Last Element of sorted array: 567
+3 | 5 <br> 5 4 3 26 3 | Array is sorted in 6 swaps. <br> First Element of sorted array: 3 <br> Last Element of sorted array: 26
+4 | 10 <br> 56 43 5 67 3 2 78 65 2 3 | Array is sorted in 27 swaps. <br> First Element of sorted array: 2 <br> Last Element of sorted array: 78
