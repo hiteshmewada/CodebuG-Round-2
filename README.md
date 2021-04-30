@@ -6,7 +6,7 @@
 :two: Check if your modified code is passing all test cases provided below. <br>
 :three: Upload your modified code file to google form. <br>
 :four: Repeat step 0 to 3 for all folders. <br>
-:five: Submit yours google form before deadline. <br>
+:five: Submit your solutions in [Google form](https://forms.gle/UyHSosnZLawzFfj78) before deadline. <br>
 All the best! :thumbsup:
 
 ### :white_circle: Test Cases :white_circle:
