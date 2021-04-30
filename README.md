@@ -9,6 +9,11 @@
 :five: Submit your solutions in [Google form](https://forms.gle/UyHSosnZLawzFfj78) before deadline. <br>
 All the best! :thumbsup:
 
+### :gift: Prizes :gift:
+•	Top winners of round 2 will win vouchers for a certified python course from none other than [SYBGEN LEARNING](https://sybgenlearning.com/). <br>
+•	Winners will get E-Certificate displaying performance. <br>
+•	Everyone will get participation E-certificate. <br>
+
 ### :high_brightness: Rules :high_brightness:
 •	You need to submit only one code file of your choice from each folder. <br>
 •	Multiple submission will not be allowed. <br>
