@@ -46,7 +46,7 @@ Test Case No | input | Outut
 Test Case No | input | Outut
 --- | --- | ---
 0 | 1 <br> congratulations | cnrtltos ogauain
-1 | 3 <br> vidyalankar <br> institute <br> of <br> technology | vdaakr iylna <br> isiue nttt <br> o f <br> tcnlg ehooy
+1 | 4 <br> vidyalankar <br> institute <br> of <br> technology | vdaakr iylna <br> isiue nttt <br> o f <br> tcnlg ehooy
 2 | 4 <br> Association <br> of <br> computing <br> machinery | Ascain soito <br> o f <br> cmuig optn <br> mciey ahnr
 3 | 5 <br> Success <br> Motivation <br> Hardwork <br> Achievement <br> Goals | Sces ucs <br> Mtvto oiain <br> Hrwr adok <br> Aheeet civmn <br> Gas ol
 4 | 2 <br> ThanksForParticipation <br> SeeYouInNextEvents | TakFratcpto hnsoPriiain <br> SeoINxEet eYunetvns
