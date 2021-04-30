@@ -46,10 +46,10 @@ Test Case No | input | Outut
 Test Case No | input | Outut
 --- | --- | ---
 0 | 1 <br> congratulations | cnrtltos ogauain
-1 | 3 <br> vidyalankar <br> institute of <br> technology | vdaakr iylna <br> isiueo nttt f <br> tcnlg ehooy
+1 | 3 <br> vidyalankar <br> institute <br> of <br> technology | vdaakr iylna <br> isiue nttt <br> o f <br> tcnlg ehooy
 2 | 4 <br> Association <br> of <br> computing <br> machinery | Ascain soito <br> o f <br> cmuig optn <br> mciey ahnr
-3 | 4 <br> jony jony <br> yes papa <br> eating sugar <br> no papa | jn oy oyjn <br> yspp e aa <br> etn ua? aigsgr <br> n aa opp
-4 | 3 <br> Go corona go <br> stay home stay safe <br> get vaccinated! | G ooag ocrn o <br> sa oesa ae tyhm tysf <br> gtvciae! e acntd
+3 | 5 <br> Success <br> Motivation <br> Hardwork <br> Achievement <br> Goals | Sces ucs <br> Mtvto oiain <br> Hrwr adok <br> Aheeet civmn <br> Gas ol
+4 | 2 <br> ThanksForParticipation <br> SeeYouInNextEvents | TakFratcpto hnsoPriiain <br> SeoINxEet eYunetvns
 
 #### :large_orange_diamond: Pattern :large_orange_diamond:
 Test Case No | input | Outut
