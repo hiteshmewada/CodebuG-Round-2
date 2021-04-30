@@ -9,6 +9,14 @@
 :five: Submit your solutions in [Google form](https://forms.gle/UyHSosnZLawzFfj78) before deadline. <br>
 All the best! :thumbsup:
 
+### :high_brightness: Rules :high_brightness:
+•	You need to submit only one code file of your choice from each folder. <br>
+•	Multiple submission will not be allowed. <br>
+•	You can modify only instructed lines as above solution. <br>
+•	Modification of lines other than instructed by comments will lead to disqualification. <br>
+•	Submit your code before deadline. Late submissions will not be entertained. <br>
+
+
 ### :white_circle: Test Cases :white_circle:
 
 #### :large_orange_diamond: Binary :large_orange_diamond:
