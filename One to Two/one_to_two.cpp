@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 void one(string s){
         int len = s.length();
         // change below line to pass all test cases

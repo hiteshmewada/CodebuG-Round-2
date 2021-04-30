@@ -31,12 +31,12 @@ void prepost(int pre[], int N)
 int main()
 {
 	int N;
-    cin >> n;
-    vector<int> pre(N);
+    cin >> N;
+    int pre[N];
     for(int a_i = 0;a_i < N; a_i++){
        cin >> pre[a_i];
     }
-	prepost(pre, N);
-	
-	return 0;
+    prepost(pre, N);
+    
+    return 0;
 }

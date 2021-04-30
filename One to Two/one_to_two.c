@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 void one(char arr[]){
         int len = strlen(arr);
         // change below line to pass all test cases

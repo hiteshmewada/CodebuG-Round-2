@@ -20,7 +20,7 @@ void printPattern(int r) {
  
 int main() {
   int r;
-  cin >> r
+  cin >> r;
   // change below line to pass all test cases
   printPattern();
   return 0;

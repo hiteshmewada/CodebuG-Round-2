@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 void printPattern(int r) {
  
   float dist;

@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main() {
     int da,ma,ya,de,me,ye;
     scanf("%d%d%d", &de,&me,&ye);

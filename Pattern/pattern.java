@@ -1,3 +1,6 @@
+import java.io.*;
+import java.util.*;
+
 class Pattern {
      
 static void printPattern(int r) {

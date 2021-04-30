@@ -1,3 +1,6 @@
+import java.io.*;
+import java.util.*;
+
 class Prepost {
 	
 	public void prepost(int pre[])
@@ -38,6 +41,7 @@ class Prepost {
         for(int a_i=0; a_i < N; a_i++){
             pre[a_i] = in.nextInt();
         }
-		prepost(pre);
+		Prepost obj = new Prepost();
+        obj.prepost(pre);
 	}
 }

@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 int main() {
     int da,ma,ya,de,me,ye;
     cin>>de>>me>>ye;
